@@ -21,6 +21,7 @@ module.exports = {
   plugins: ['react', 'react-hooks', '@typescript-eslint', 'prettier'],
   rules: {
     // Define your custom ESLint rules here, if needed.
+    'react/prop-types': [0],
   },
   settings: {
     react: {
