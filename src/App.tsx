@@ -4,8 +4,11 @@ import Slider from './components/molecules/Slider'
 
 function App() {
   return (
-    <div className="bg-black w-full text-white h-screen overflow-y-scroll snap-y snap-mandatory overscroll-y-contain">
-      <div className="h-screen flex flex-col w-full items-end justify-center relative snap-start">
+    <div className="App bg-black w-full text-white h-screen overflow-y-scroll snap-y snap-mandatory overscroll-y-contain">
+      <div
+        className="h-screen flex flex-col w-full items-end justify-center relative snap-start"
+        id="home"
+      >
         <img
           src="/images/Rx.jpg"
           alt="Craneum rx"

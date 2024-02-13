@@ -1,14 +1,18 @@
 import React from 'react'
 import AwesomeSlider from 'react-awesome-slider'
 import 'react-awesome-slider/dist/styles.css'
+import { media } from './media'
 
-const Slider = ({ className }: { className: string }) => (
-  <AwesomeSlider bullets={false} className={className}>
-    <div>1</div>
-    <div>2</div>
-    <div>3</div>
-    <div>4</div>
-  </AwesomeSlider>
-)
+const Slider = ({ className }: { className: string }) => {
+  return (
+    <AwesomeSlider
+      bullets={false}
+      infinite={false}
+      // mobileTouch={false}
+      className={className}
+      media={media}
+    />
+  )
+}
 
 export default Slider
