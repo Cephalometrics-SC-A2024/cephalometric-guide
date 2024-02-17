@@ -1,5 +1,4 @@
 import React from 'react'
-import guideData from '../../../constants/steps.json'
 
 export function Step({
   description,
@@ -45,15 +44,3 @@ export function Step({
     </div>
   )
 }
-
-export const media = guideData.map((step, idx) => ({
-  slug: `page-${idx + 1}`,
-  children: (
-    <Step
-      description={step.title}
-      image={step.image}
-      innerSteps={step.steps}
-      index={idx}
-    />
-  ),
-}))

@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Slider from './components/molecules/Slider'
+import Slider from './components/molecules/Carousel'
 
 function App() {
   return (
@@ -31,7 +31,9 @@ function App() {
           </p>
         </div>
       </div>
-      <Slider className="snap-start h-screen" />
+      <div className="snap-start h-screen">
+        <Slider />
+      </div>
     </div>
   )
 }
