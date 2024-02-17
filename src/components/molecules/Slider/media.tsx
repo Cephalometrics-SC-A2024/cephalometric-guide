@@ -17,10 +17,7 @@ export function Step({
 }) {
   return (
     <div className="flex flex-col w-screen h-screen overflow-y-scroll snap-y snap-mandatory overscroll-y-contain">
-      <section
-        className="snap-start h-screen w-screen flex flex-row items-center justify-center relative"
-        id={`step-${index + 1}`}
-      >
+      <section className="snap-start h-screen w-screen flex flex-row items-center justify-center relative">
         {index === 0 && (
           <button
             type="button"
@@ -40,7 +37,6 @@ export function Step({
         <section
           className="snap-start h-screen w-screen flex flex-row items-center justify-center relative"
           key={`inner-step-${index + 1}-${idx + 1}`}
-          id={`inner-step-${index + 1}-${idx + 1}`}
         >
           <div className="text-white text-4xl w-1/3">{innerStep.title}</div>
           <img src={innerStep.image} alt="rx" className="w-1/2" />
