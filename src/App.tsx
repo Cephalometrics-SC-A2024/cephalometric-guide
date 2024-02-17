@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Slider from './components/molecules/Carousel'
+import Slider from './components/molecules/Slider'
 
 function App() {
   return (

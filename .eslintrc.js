@@ -22,7 +22,9 @@ module.exports = {
   rules: {
     // Define your custom ESLint rules here, if needed.
     'react/prop-types': [0],
+    'react/react-in-jsx-scope': [0],
   },
+  ignorePatterns: ['**/*.css'],
   settings: {
     react: {
       version: 'detect',
