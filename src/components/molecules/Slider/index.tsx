@@ -21,7 +21,7 @@ const MyCarousel = () => (
         },
       },
     ]}
-    className="snap-start h-screen relative"
+    className="snap-start h-screen w-screen relative"
   >
     {guideData.map((step, idx) => (
       <Step
