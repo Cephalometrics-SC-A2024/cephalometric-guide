@@ -14,14 +14,14 @@ const MyCarousel = () => (
         resolve: arrowsPlugin,
         options: {
           arrowLeft: <ArrowLeft className="cursor-pointer mx-4" />,
-          arrowLeftDisabled: <ArrowLeft className="cursor-pointer mx-4" />,
+          arrowLeftDisabled: <ArrowLeft className="hidden" />,
           arrowRight: <ArrowRight className="cursor-pointer mx-4" />,
-          arrowRightDisabled: <ArrowRight className="cursor-pointer mx-4" />,
+          arrowRightDisabled: <ArrowRight className="hidden" />,
           addArrowClickHandler: true,
         },
       },
     ]}
-    className="snap-start h-screen w-screen relative"
+    className="h-screen"
   >
     {guideData.map((step, idx) => (
       <Step
