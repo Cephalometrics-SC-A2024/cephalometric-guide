@@ -24,7 +24,7 @@ module.exports = {
     'react/prop-types': [0],
     'react/react-in-jsx-scope': [0],
   },
-  ignorePatterns: ['**/*.css', '**/*.svg'],
+  ignorePatterns: ['**/*.css', '**/*.svg', '**/*.scss'],
   settings: {
     react: {
       version: 'detect',

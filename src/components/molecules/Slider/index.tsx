@@ -14,9 +14,9 @@ const MyCarousel = () => (
         resolve: arrowsPlugin,
         options: {
           arrowLeft: <ArrowLeft className="cursor-pointer mx-4" />,
-          arrowLeftDisabled: <ArrowLeft className="hidden" />,
+          arrowLeftDisabled: <div className="w-14" />,
           arrowRight: <ArrowRight className="cursor-pointer mx-4" />,
-          arrowRightDisabled: <ArrowRight className="hidden" />,
+          arrowRightDisabled: <div className="w-14" />,
           addArrowClickHandler: true,
         },
       },

@@ -1,287 +1,287 @@
 [
   {
     "title": "Paso 1: Alinear el papel de calco en la radiografía de cefalograma lateral",
-    "image": "/images/points.png",
+    "image": "/images/Step1/CEFALOMETRIA.jpeg",
     "steps": [
       {
         "title": "1.1. Dibuje dos cruces separadas aproximadamente 3 cm en la esquina superior izquierda de la radiografía.",
-        "image": "/images/points.png"
+        "image": "/images/Step1/CEFALOMETRIA1.1.jpg"
       },
       {
         "title": "1.2. Superponga la hoja de papel de calco de acetato sobre la radiografía y fije el borde superior con cinta adhesiva.",
-        "image": "/images/points.png"
+        "image": "/images/Step1/CEFALOMETRIA1.2.jpg"
       },
       {
         "title": "1.3. Trace las cruces en el papel de calco para facilitar la superposición posterior del calco.",
-        "image": "/images/points.png"
+        "image": "/images/Step1/CEFALOMETRIA1.3.jpeg"
       },
       {
         "title": "1.4. Escriba el nombre del paciente, la edad y la fecha de la radiografía encima de las cruces en el papel de calco.",
-        "image": "/images/points.png"
+        "image": "/images/Step1/CEFALOMETRIA1.4.jpg"
       }
     ]
   },
   {
     "title": "Paso 2: Identifique y rastree estructuras de tejido duro (HT) e identifique los siguientes puntos de referencia de tejido duro",
-    "image": "/images/points.png",
+    "image": "/images/Step2/CEFALOMETRIA.png",
     "steps": [
       {
         "title": "2.1. Traza la base del cráneo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.1.png"
       },
       {
         "title": "2.2. Trace los incisivos centrales superiores e inferiores, siguiendo los ejes largos correctos.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.2.png"
       },
       {
         "title": "2.3. Trace los primeros molares permanentes superiores e inferiores en relación entre sí.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.3.png"
       },
       {
         "title": "2.4. Traza la mandíbula y el maxilar.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.4.png"
       },
       {
         "title": "2.5. Silla (S): Punto medio de la silla turca.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.5.png"
       },
       {
         "title": "2.6. Nasion (N): Punto medio de la sutura frontonasal.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.6.png"
       },
       {
         "title": "2.7. Porion (Po) Parte superior del meato auditivo externo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.7.png"
       },
       {
         "title": "2.8. Orbitale (O): Borde inferior de la órbita.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.8.png"
       },
       {
         "title": "2.9. Fisura pterigomaxilar (Pt): punto más posterior y superior en el contorno de la fisura pterigomaxilar.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.9.png"
       },
       {
         "title": "2.10. Condilio (Cd): Punto más superior de la cabeza del cóndilo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.10.png"
       },
       {
         "title": "2.11. Articulare (Ar): punto en el borde posterior de la rama en la intersección con la porción basilar del hueso occipital.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.11.png"
       },
       {
         "title": "2.12. Espina nasal posterior (PNS): Punto posterior del paladar duro óseo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.12.png"
       },
       {
         "title": "2.13. Espina nasal anterior (ANS): Punto anterior del maxilar.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.13.png"
       },
       {
         "title": "2.14. Punto A: Punto más profundo del maxilar debajo del ANS.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.14.png"
       },
       {
         "title": "2.15. Punto B: Punto más posterior de la curva ósea de la mandíbula por encima del pogonion.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.15.png"
       },
       {
         "title": "2.16. Pogonion (Pog): Punto más anterior del mentón óseo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.16.png"
       },
       {
         "title": "2.17. Gonion (Go): Punto más posterior e inferior en el contorno del ángulo de la mandíbula.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.17.png"
       },
       {
         "title": "2.18. Gnatión (Gn): Punto más anteroinferior del mentón óseo.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.18.png"
       },
       {
         "title": "2.19. Menton (Yo): Punto más bajo de la sínfisis de la mandíbula.",
-        "image": "/images/points.png"
+        "image": "/images/Step2/CEFALOMETRIA2.19.png"
       }
     ]
   },
   {
     "title": "Paso 3: Identifique los contornos del tejido blando (ST) y los siguientes puntos de referencia",
-    "image": "/images/points.png",
+    "image": "/images/Step3/CEFALOMETRIA3.2.png",
     "steps": [
       {
         "title": "3.1. Traza el contorno del tejido blando.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.2.png"
       },
       {
         "title": "3.2. Tejido blando Glabela (G') Punto más prominente en el plano sagital entre las crestas supraorbitarias.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.2.png"
       },
       {
         "title": "3.3. Nasion de tejido blando (N') Parte más profunda del contorno del tejido blando delante de Nasion.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.3.png"
       },
       {
         "title": "3.4. Punta de la Nariz (P)- Pronasale.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.4.png"
       },
       {
         "title": "3.5. Subnasal (Sn) Unión del tabique nasal y el labio superior en el plano sagital medio.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.5.png"
       },
       {
         "title": "3.6. Punto A de tejido blando (SLS) Punto más profundo de la línea media en el contorno del surco labial superior.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.6.png"
       },
       {
         "title": "3.7. Labial superior (Ls) Punto más anterior en el contorno del labio superior (borde bermellón).",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.7.png"
       },
       {
         "title": "3.8. Stomium Superior (Stms) Punto de la línea media más baja en el contorno del labio superior.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.8.png"
       },
       {
         "title": "3.9. Stomium Inferior (Stmi) Punto más alto de la línea media en el contorno del labio inferior.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.9.png"
       },
       {
         "title": "3.10. Labial inferior (Li): punto más anterior en el contorno del labio inferior (borde bermellón).",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.10.png"
       },
       {
         "title": "3.11. Punto B de tejido blando (ILS) Punto de la línea media más profundo en el contorno del surco labial inferior.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.11.png"
       },
       {
         "title": "3.12. Pogonion de tejido blando (Pog') Punto más anterior en el contorno del mentón ST.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.12.png"
       },
       {
         "title": "3.13. Menton de tejido blando (Me') Punto más bajo en el contorno del mentón de tejido blando.",
-        "image": "/images/points.png"
+        "image": "/images/Step3/CEFALOMETRIA3.13.png"
       }
     ]
   },
   {
     "title": "Paso 4: Conecte los siguientes puntos de referencia",
-    "image": "/images/points.png",
+    "image": "/images/Step4/CEFALOMETRIA4.1.png",
     "steps": [
       {
         "title": "4.1. Sella y Nasion – Línea SN.",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.1.png"
       },
       {
         "title": "4.2. Porion y Orbitale (plano horizontal de Frankfurt – FH).34.3. Cúspide mesiovestibular del primer molar superior y cúspide de el primer premolar – (plano oclusal).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.2.png"
       },
       {
         "title": "4.3. Cúspide mesiovestibular del primer molar superior y cúspide de el primer premolar – (plano oclusal).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.3.png"
       },
       {
         "title": "4.4. Línea recta que pasa por Gnathion(Gn) y Gonion (Go) [MP-Plano mandibular].",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.4.png"
       },
       {
         "title": "4.5. Sella y Gnathion (eje Y).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.5.png"
       },
       {
         "title": "4.6. Nasion y punto A (línea NA).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.6.png"
       },
       {
         "title": "4.7. Nasion y punto B (línea NB).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.7.png"
       },
       {
         "title": "4.8. Nasion y Pogonion (N-Pog).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.8.png"
       },
       {
         "title": "4.9. Punto A y Pogonion (línea APo).",
-        "image": "/images/points.png"
+        "image": "/images/Step4/CEFALOMETRIA4.8.png"
       }
     ]
   },
   {
     "title": "Paso 5: mide los siguientes ángulos",
-    "image": "/images/points.png",
+    "image": "/images/Step5/CEFALOMETRIA5.1.png",
     "steps": [
       {
         "title": "5.1. Ángulo entre la línea SN y la línea FH.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.1.png"
       },
       {
         "title": "5.2. Ángulo entre la línea SN y el plano oclusal.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.2.png"
       },
       {
         "title": "5.3. Ángulo entre la línea SN y el plano mandibular.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.3.png"
       },
       {
         "title": "5.4. Ángulo entre la línea FH y Sella – Gnathion (eje Y).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.4.png"
       },
       {
         "title": "5.5. Ángulo entre la línea SN y NA (SNA°).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.5.png"
       },
       {
         "title": "5.6. Ángulo entre la línea SN y la línea NB (SNB°).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.6.png"
       },
       {
         "title": "5.7. Diferencia entre SNA y SNB = (ANB°).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.7.png"
       },
       {
         "title": "5.8. Ángulo entre la línea FH y NPog (ángulo facial).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.9. Ángulo entre el eje largo de U1 y la línea NA.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.10. Ángulo entre el eje largo de L1 y la línea NB.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.11. Ángulo entre el eje largo de U1 y L1 (ángulo interincisal).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.12. Ángulo facial total (TFA) -– G'-P-Pog': ángulo formado por la intersección de la línea de tejido blando glabela-pronasal y la línea extendida de tejido blando pogonion-pronasal para formar el ángulo contenido para la medición.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.13. Ángulo facial de tejido blando (FA) – Ángulo G'-Sn-Pog' formado por la intersección de las líneas subnasal-glabella y pogonion-subnasal extendidas (medido en el ángulo contenido superior).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.14. Ángulo facial de tejidos blandos (STFA) – N'-Pog' y FH: ángulo formado por la intersección de la línea pogonion de tejidos blandos-nasion de tejidos blandos y el plano Horizontal de Frankfort, medido como el ángulo contenido inferior.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.15. Ángulo Z de Merrifield (ZA): Pog' al labio más protrusivo, extendido a FH: el ángulo entre la 'línea del perfil' y el plano horizontal de Frankfort.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.16. Ángulo nasolabial (NA) – Cm-Sn-Ls: Ángulo entre la intersección de las líneas tangentes a la columela y el labio superior.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.17. Ángulo pogonion-labial (MLA) – Li-ILS-Pog': Ángulo entre la intersección de la línea labial inferior con el surco labial inferior y una línea tangente al pogonion de tejido blando, que pasa por el labial inferior.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.18. Ángulo pogonion-menton (PMA) – Pog' - Me': Ángulo entre la intersección de las líneas tangentes al pogonion de tejido blando y al mentón de tejido blando.",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       },
       {
         "title": "5.19. Ángulo de retención (HA): Ángulo formado entre la línea del plano facial del tejido blando (pogonion del nasion del tejido blando) y la línea H8 (pogonion del tejido blando al labial inferior).",
-        "image": "/images/points.png"
+        "image": "/images/Step5/CEFALOMETRIA5.8.png"
       }
     ]
   },
@@ -357,7 +357,19 @@
     "steps": [
       {
         "title": "Tabla",
-        "image": "/images/points.png"
+        "image": "/images/Step7/Table.png"
+      },
+      {
+        "title": "Tabla",
+        "image": "/images/Step7/Table2.png"
+      },
+      {
+        "title": "Tabla",
+        "image": "/images/Step7/Table3.png"
+      },
+      {
+        "title": "Tabla",
+        "image": "/images/Step7/Table4.png"
       }
     ]
   }
