@@ -10,7 +10,7 @@ export default function Home() {
       <img
         src="/images/Rx.jpg"
         alt="Craneum rx"
-        className="absolute -left-20 md:left-0 -bottom-10 scale-50 md:top-20 md:bottom-auto md:scale-200"
+        className="absolute -left-20 md:left-0 -bottom-0 scale-50 md:top-20 md:bottom-auto md:scale-200"
       />
       <div className="w-full md:w-2/5 p-8 md:p-12 text-[#B1ECFD]">
         <LogoULA className="w-full md:w-80 md:absolute top-0" />
