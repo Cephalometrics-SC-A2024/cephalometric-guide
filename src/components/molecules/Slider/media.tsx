@@ -27,7 +27,7 @@ export function Step({
             }}
             className="absolute top-8 md:top-12 left-1/2 -translate-x-1/2"
           >
-            Go back
+            Volver
           </button>
         )}
         <div className="h-screen w-full md:gap-16 flex flex-col md:flex-row items-center justify-center">
@@ -41,7 +41,7 @@ export function Step({
             <button className="scroll">
               <span />
             </button>
-            Scroll for more on step {index + 1}
+            Desplázate hacia abajo para ver más del paso {index + 1}
           </div>
         </div>
       </section>
