@@ -27,7 +27,7 @@ export default function Home() {
           cefalometría. maloclusiones y las discrepancias esqueléticas
           subyacentes.
         </p>
-        <p className="w-2/5 md:w-full right-8 md:right-auto absolute bottom-28 md:bottom-12 text-sm text-left">
+        <p className="w-2/5 md:w-full right-8 md:right-auto absolute bottom-32 md:bottom-12 text-sm text-left">
           <strong>Por:</strong> Josmar Muñoz y Jorge Rodriguez <br />{' '}
           <strong>Tutor:</strong> Jormany Quintero
         </p>
