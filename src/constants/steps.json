@@ -26,7 +26,7 @@
     "image": "/images/Step2/CEFALOMETRIA.png",
     "steps": [
       {
-        "title": "2.1. Traza la base del cráneo.",
+        "title": "2.1. Traza la base del cráneo junto al tejido blando.",
         "image": "/images/Step2/CEFALOMETRIA2.1.png"
       },
       {
@@ -54,7 +54,7 @@
         "image": "/images/Step2/CEFALOMETRIA2.7.png"
       },
       {
-        "title": "2.8. Orbitale (O): Borde inferior de la órbita.",
+        "title": "2.8. Orbitale (Or): Borde inferior de la órbita.",
         "image": "/images/Step2/CEFALOMETRIA2.8.png"
       },
       {
@@ -105,58 +105,54 @@
   },
   {
     "title": "Paso 3: Identifique los contornos del tejido blando (ST) y los siguientes puntos de referencia",
-    "image": "/images/Step3/CEFALOMETRIA3.2.png",
+    "image": "/images/Step2/CEFALOMETRIA2.4.png",
     "steps": [
       {
-        "title": "3.1. Traza el contorno del tejido blando.",
+        "title": "3.1. Tejido blando Glabela (G') Punto más prominente en el plano sagital entre las crestas supraorbitarias.",
         "image": "/images/Step3/CEFALOMETRIA3.2.png"
       },
       {
-        "title": "3.2. Tejido blando Glabela (G') Punto más prominente en el plano sagital entre las crestas supraorbitarias.",
-        "image": "/images/Step3/CEFALOMETRIA3.2.png"
-      },
-      {
-        "title": "3.3. Nasion de tejido blando (N') Parte más profunda del contorno del tejido blando delante de Nasion.",
+        "title": "3.2. Nasion de tejido blando (N') Parte más profunda del contorno del tejido blando delante de Nasion.",
         "image": "/images/Step3/CEFALOMETRIA3.3.png"
       },
       {
-        "title": "3.4. Punta de la Nariz (P)- Pronasale.",
+        "title": "3.3. Punta de la Nariz (P)- Pronasale.",
         "image": "/images/Step3/CEFALOMETRIA3.4.png"
       },
       {
-        "title": "3.5. Subnasal (Sn) Unión del tabique nasal y el labio superior en el plano sagital medio.",
+        "title": "3.4. Subnasal (Sn) Unión del tabique nasal y el labio superior en el plano sagital medio.",
         "image": "/images/Step3/CEFALOMETRIA3.5.png"
       },
       {
-        "title": "3.6. Punto A de tejido blando (SLS) Punto más profundo de la línea media en el contorno del surco labial superior.",
+        "title": "3.5. Punto A de tejido blando (SLS) Punto más profundo de la línea media en el contorno del surco labial superior.",
         "image": "/images/Step3/CEFALOMETRIA3.6.png"
       },
       {
-        "title": "3.7. Labial superior (Ls) Punto más anterior en el contorno del labio superior (borde bermellón).",
+        "title": "3.6. Labial superior (Ls) Punto más anterior en el contorno del labio superior (borde bermellón).",
         "image": "/images/Step3/CEFALOMETRIA3.7.png"
       },
       {
-        "title": "3.8. Stomium Superior (Stms) Punto de la línea media más baja en el contorno del labio superior.",
+        "title": "3.7. Stomium Superior (Stms) Punto de la línea media más baja en el contorno del labio superior.",
         "image": "/images/Step3/CEFALOMETRIA3.8.png"
       },
       {
-        "title": "3.9. Stomium Inferior (Stmi) Punto más alto de la línea media en el contorno del labio inferior.",
+        "title": "3.8. Stomium Inferior (Stmi) Punto más alto de la línea media en el contorno del labio inferior.",
         "image": "/images/Step3/CEFALOMETRIA3.9.png"
       },
       {
-        "title": "3.10. Labial inferior (Li): punto más anterior en el contorno del labio inferior (borde bermellón).",
+        "title": "3.9. Labial inferior (Li): punto más anterior en el contorno del labio inferior (borde bermellón).",
         "image": "/images/Step3/CEFALOMETRIA3.10.png"
       },
       {
-        "title": "3.11. Punto B de tejido blando (ILS) Punto de la línea media más profundo en el contorno del surco labial inferior.",
+        "title": "3.10. Punto B de tejido blando (ILS) Punto de la línea media más profundo en el contorno del surco labial inferior.",
         "image": "/images/Step3/CEFALOMETRIA3.11.png"
       },
       {
-        "title": "3.12. Pogonion de tejido blando (Pog') Punto más anterior en el contorno del mentón ST.",
+        "title": "3.11. Pogonion de tejido blando (Pog') Punto más anterior en el contorno del mentón ST.",
         "image": "/images/Step3/CEFALOMETRIA3.12.png"
       },
       {
-        "title": "3.13. Menton de tejido blando (Me') Punto más bajo en el contorno del mentón de tejido blando.",
+        "title": "3.12. Menton de tejido blando (Me') Punto más bajo en el contorno del mentón de tejido blando.",
         "image": "/images/Step3/CEFALOMETRIA3.13.png"
       }
     ]
